@@ -15,6 +15,6 @@
 5、发布：在Terminal执行
 <br>
 
-  {gradlew install
+  gradlew install
   <br>
-  gradlew bintray}
+  gradlew bintray
